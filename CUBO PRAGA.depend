@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1732833791 source:c:\users\usuário\downloads\cubo praga\src\mandarserial.cpp
+	"mandarSerial.h"
+	<iostream>
+	<stdexcept>
+	<windows.h>
+
+1732834424 source:c:\users\usuário\downloads\cubo praga\main.cpp
+	<iostream>
+	"cubo.h"
+	"mandarSerial.h"
+	<stdexcept>
+	<cstdlib>
+	<thread>
+	<chrono>
+
+1732833791 c:\users\usuário\downloads\cubo praga\include\cubo.h
+	<cstdint>
+	<iostream>
+
+1732833791 c:\users\usuário\downloads\cubo praga\include\mandarserial.h
+	"cubo.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<bitset>
+
+1732715632 source:c:\users\usuário\downloads\cubo praga\src\cubo.cpp
+	"cubo.h"
+
